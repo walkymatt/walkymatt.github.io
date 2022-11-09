@@ -5,7 +5,7 @@ layout: default
 
 * [COMP0088 Introduction to Machine Learning](https://github.com/comp0088)
 * [COMP0160 Perception & Interfaces](https://comp0160.github.io) [wip]
-* COMP0161 Auditory Computing [wip]:
+* [COMP0161 Auditory Computing](https://github.com/comp0161) [wip]:
     * [lab 1](https://colab.research.google.com/drive/1vkN__9VWqz4SaEgQDDvWEWqKANHk9wnl?usp=sharing)
     * [lab 2](https://colab.research.google.com/drive/1tfWhkgOYNF-KGZZu4Fc-nrBs1NEgC1m7?usp=sharing)
     * [lab 3](https://colab.research.google.com/drive/1x23bALrzIQeRxzAyyfcz44b3vdyLlK9b?usp=sharing)
