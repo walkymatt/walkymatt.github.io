@@ -6,7 +6,7 @@ layout: default
 * [COMP0088 Introduction to Machine Learning](https://github.com/comp0088)
 * [COMP0160 Perception & Interfaces](https://comp0160.github.io)
 * [COMP0161 Auditory Computing](https://comp0161.github.io)
-* [UCL](https://www.ucl.ac.uk/~ucbpmbc/) [outdated]
+* [UCL](https://www.homepages.ucl.ac.uk/~ucbpmbc/) [outdated]
 
 
 ## Personal
